@@ -26,8 +26,9 @@ This workshop is organised by practitioners and for practitioners with an intere
 | 13 | What's going on with MITRE ATT&CK in 2026                                                             | Lauren<br/>Adam | Lusty<br/>Pennington | MITRE ATT&CK                                                           |
 | 14 | Keeping Europe SAFE, One Technique at a Time                                                          | Teodor          | Mihailescu           | The Romanian national cyber security and incident response team (DNSC) |
 | 15 | Advancing Threat-Led Defense with Generative AI                                                       | Ian             | Davila               | Tidal Cyber                                                            |
-| 16 | [Title]                                                                                               | Leslie          | Anderson             | MITRE Center for Threat-Informed Defense                               |
+| 16 | Latest updates of the MITRE Center for Threat-Informed Defense                                        | Leslie          | Anderson             | MITRE Center for Threat-Informed Defense                               |
 | 17 | From Threat Scenarios to ATT&CK Mapping: Making Threat Modeling Actionable Without False Precision    | Nathan          | Pembe                | NVISO                                                                  |
+| 18 | [Title]                                                                                               | LTC Maciej      | Szymczyk             | Polish Cyber Command                                                   |
 
 We look forward to welcoming you on 6 May 2026!<br><br>
 👉 **Register now to save your spot:** [2026 EU MITRE ATT&CK® Community Workshop | EUROCONTROL](https://www.eurocontrol.int/event/2026-eu-mitre-attckr-community-workshop)
