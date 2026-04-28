@@ -17,7 +17,7 @@ This workshop is organised by practitioners and for practitioners with an intere
 | 4  | From ATT&CK-driven Scoring to Strategy: Advancing Cyber Risk Quantification through Contextualization | Hanna<br>Artem  | Holych<br>Zhylin     | CERT-UA                                                                |
 | 5  | Country-Specific and Sector-Specific Threat Models as a Public Service                                | Jan             | Kopriva              | Nettles Consulting                                                     |
 | 6  | Intelligence that Drives Action - Operationalizing CTI using MITRE Attack Flow v3                     | Rajendra        | Mekhale              | Itsme                                                                  |
-| 7  | [Title]                                                                                               | Luca            | Massarelli           | European Commission                                                    |
+| 7  | Cyber Offence Risk Modelling for AI Safety Evaluations and the use of MITRE ATT&CK                    | Luca            | Massarelli           | European Commission                                                    |
 | 8  | Defending the Critical Path: Business‑Aligned Threat Modelling with MITRE ATT&CK                      | Jennifer        | Henoch               | Macquarie Group                                                        |
 | 9  | AI in the Crosshairs: Operationalising MITRE ATLAS Alongside ATT&CK                                   | Chris           | Brake                | AttackIQ                                                               |
 | 10 | From SIEM-Centric to Modernized SOC: Decoupling Data, Detections, and Response.                       | Hieu            | Tran                 | FPT                                                                    |
@@ -26,8 +26,9 @@ This workshop is organised by practitioners and for practitioners with an intere
 | 13 | What's going on with MITRE ATT&CK in 2026                                                             | Lauren<br/>Adam | Lusty<br/>Pennington | MITRE ATT&CK                                                           |
 | 14 | Keeping Europe SAFE, One Technique at a Time                                                          | Teodor          | Mihailescu           | The Romanian national cyber security and incident response team (DNSC) |
 | 15 | Advancing Threat-Led Defense with Generative AI                                                       | Ian             | Davila               | Tidal Cyber                                                            |
-| 16 | [Title]                                                                                               | Leslie          | Anderson             | MITRE Center for Threat-Informed Defense                               |
+| 16 | Latest updates of the MITRE Center for Threat-Informed Defense                                        | Leslie          | Anderson             | MITRE Center for Threat-Informed Defense                               |
 | 17 | From Threat Scenarios to ATT&CK Mapping: Making Threat Modeling Actionable Without False Precision    | Nathan          | Pembe                | NVISO                                                                  |
+| 18 | Beyond detection rules                                                                                | LTC Maciej      | Szymczyk             | Polish Cyber Command                                                   |
 
 We look forward to welcoming you on 6 May 2026!<br><br>
 👉 **Register now to save your spot:** [2026 EU MITRE ATT&CK® Community Workshop | EUROCONTROL](https://www.eurocontrol.int/event/2026-eu-mitre-attckr-community-workshop)
